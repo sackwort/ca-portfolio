@@ -538,3 +538,105 @@ Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 08:24:
 
 
 Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 08:24:23 -0500
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 08:33:54 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 97ms (Views: 88.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 08:33:55 -0500
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 08:34:22 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 86ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 08:34:22 -0500
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 08:34:22 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:22 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:22 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:23 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:23 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:23 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 08:34:23 -0500
+
+
+Started GET "/contact" for 86.9.202.223 at 2016-02-23 08:34:29 -0500
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 91ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 08:35:35 -0500
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 08:35:41 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.0ms)
