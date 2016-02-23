@@ -77,16 +77,15 @@ a.btn {
     display: block;
     height: 24px;
     width: 24px;
+  	background-size: cover;
 }
 .github {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social-1.svg");
     background-position: center center;
-  	background-size: cover;
 }
 .linkedin {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social.svg");
     background-position: center center;
-  	background-size: cover;
 }
 .tumblr {
     background-image: url("/tumblr.svg");
@@ -95,7 +94,6 @@ a.btn {
 .twitter {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social-2.svg");
     background-position: center center;
-  	background-size: cover;
 }
 .youtube {
     background-image: url("/youtube.svg");
@@ -108,12 +106,10 @@ a.btn {
 .instagram {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social-5.svg");
     background-position: center center;
-  	background-size: cover;
 }
 .facebook {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social-3.svg");
-    background-position: center center;	
-  	background-size: cover;
+    background-position: center center;
 }
 .pinterest {
     background-image: url("/pinterest.svg");
@@ -122,7 +118,6 @@ a.btn {
 .gplus {
     background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/my-icons-collection/svg/social-4.svg");
     background-position: center center;
-  	background-size: cover;
 }
 .main .container {
     margin: 80px 0;
