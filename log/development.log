@@ -1,0 +1,162 @@
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 06:14:29 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 771ms (Views: 762.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 06:14:30 -0500
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 06:14:30 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:30 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:30 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:31 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:31 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:31 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 06:14:31 -0500
+
+
+Started GET "/portfolio" for 86.9.202.223 at 2016-02-23 06:14:34 -0500
+Processing by PagesController#portfolio as HTML
+  Rendered pages/portfolio.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 43ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 06:33:07 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 91ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 06:33:07 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 38ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 06:33:08 -0500
+
+
+Started GET "/about" for 86.9.202.223 at 2016-02-23 06:33:14 -0500
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 39ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 86.9.202.223 at 2016-02-23 06:35:15 -0500
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 93ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:16 -0500
+
+
+Started GET "/" for 86.9.202.223 at 2016-02-23 06:35:19 -0500
+Processing by PagesController#welcome as HTML
+  Rendered pages/welcome.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/portfolio" for 86.9.202.223 at 2016-02-23 06:35:20 -0500
+Processing by PagesController#portfolio as HTML
+  Rendered pages/portfolio.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 86.9.202.223 at 2016-02-23 06:35:23 -0500
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 67ms (Views: 66.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/portfolio" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+Processing by PagesController#portfolio as HTML
+  Rendered pages/portfolio.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 35ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/application.css?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/jquery.min.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/unslider.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:34 -0500
+
+
+Started GET "/assets/pages.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:35 -0500
+
+
+Started GET "/assets/application.js?body=1" for 86.9.202.223 at 2016-02-23 06:35:35 -0500
+
+
+Started GET "/about" for 86.9.202.223 at 2016-02-23 06:35:43 -0500
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 34ms (Views: 33.9ms | ActiveRecord: 0.0ms)

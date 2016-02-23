@@ -1,0 +1,265 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body, html {
+    font-family: "Roboto",sans-serif;
+    font-weight: 300;
+    height: 100%;
+    width: 100%;
+}
+.container {
+    padding: 0 200px 0 280px;
+    width: 100%;
+}
+.main {
+    width: 100%;
+}
+a.btn {
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 100;
+    height: 60px;
+    line-height: 60px;
+    margin: 40px 0;
+    padding: 0;
+    transition: background-color 0.5s ease 0s;
+    width: 200px;
+}
+.menu ul {
+    list-style: outside none none;
+    padding-left: 0;
+}
+.menu li {
+    display: inline;
+    font-size: 18px;
+    font-weight: 500;
+    height: 100px;
+    line-height: 100px;
+    margin: 0 20px 0 0;
+}
+.menu li a {
+    color: #000;
+}
+.name h1 {
+    color: #000;
+    font-size: 18px;
+    height: 100px;
+    line-height: 100px;
+    margin: 0;
+    text-align: right;
+}
+.footer {
+    background-color: #fff;
+    height: 200px;
+    text-align: right;
+    width: 100%;
+}
+.footer .social_media {
+    margin: 65px 0 20px;
+    width: 100%;
+}
+.social_media li {
+    display: inline-block;
+    height: 24px;
+    margin: 0 0 0 10px;
+    text-align: left;
+    text-indent: -9999px;
+    width: 24px;
+}
+.social_media li a {
+    display: block;
+    height: 24px;
+    width: 24px;
+}
+.github {
+    background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/social-1.png");
+    background-position: center center;
+}
+.linkedin {
+    background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/social.png");
+    background-position: center center;
+}
+.tumblr {
+    background-image: url("/tumblr.svg");
+    background-position: center center;
+}
+.twitter {
+    background-image: url("https://dl.dropboxusercontent.com/u/1098200/codecademy/social-2.png");
+    background-position: center center;
+}
+.youtube {
+    background-image: url("/youtube.svg");
+    background-position: center center;
+}
+.vimeo {
+    background-image: url("/vimeo.svg");
+    background-position: center center;
+}
+.instagram {
+    background-image: url("/assets/instagram-057a090ac0e0184c68efc07e412eec3b.svg");
+    background-position: center center;
+}
+.facebook {
+    background-image: url("/assets/facebook-70848fad6bf158b9a52e47d9bc956b8a.svg");
+    background-position: center center;
+}
+.pinterest {
+    background-image: url("/pinterest.svg");
+    background-position: center center;
+}
+.gplus {
+    background-image: url("/assets/gplus-b3a33145641e08e048cd10ed0ece59ce.svg");
+    background-position: center center;
+}
+.main .container {
+    margin: 80px 0;
+}
+.main h2 {
+    color: #000;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: right;
+}
+.home h2 {
+    color: #fff;
+}
+a.btn:hover, .nav li a:hover, .nav-btn:hover {
+    background-color: #cc6cff;
+    color: #fff;
+    transition: background-color 0.5s ease 0s;
+}
+.home .jumbotron {
+    background: rgba(0, 0, 0, 0) url("https://dl.dropboxusercontent.com/u/1098200/codecademy/bg.jpg") repeat scroll center center / cover ;
+    min-height: 600px;
+    width: 100%;
+}
+.portfolio .jumbotron {
+    height: 500px;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.portfolio .slideshow-container {
+    width: 100%;
+}
+.portfolio .slide {
+    height: 500px;
+    overflow: hidden;
+    transform-style: preserve-3d;
+    width: 100%;
+}
+.slide img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+.project, .project:hover {
+    color: #000;
+    margin: 0 0 40px;
+    text-decoration: none;
+    transition: color 0.5s ease 0s;
+}
+.project:hover {
+    color: #cc6cff;
+}
+.project h3, .project p, .about h2, .about p {
+    padding: 0 20px;
+}
+.project p {
+    display: block;
+    max-height: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.thumbnail-header {
+    background-color: #eaeff4;
+    display: block;
+    height: 20px;
+    width: 100%;
+}
+.thumbnail-header-btn {
+    background-color: #fff;
+    border-radius: 100%;
+    float: left;
+    height: 10px;
+    margin: 5px 0 0 5px;
+    width: 10px;
+}
+.thumbnail {
+    border: 0 none;
+    border-radius: 0;
+    max-height: 240px;
+    overflow: hidden;
+    padding: 0;
+}
+.about .thumbnail {
+    max-height: 400px;
+}
+.about h2 {
+    margin: 0 0 40px;
+}
+.contact .row {
+    margin: 80px 0 0;
+}
+.contact .col-md-2 a {
+    display: block;
+    height: 80px;
+    margin: 0 auto 40px;
+    text-indent: -9999px;
+    width: 80px;
+}
+.highlight {
+    background-color: #eaeff4;
+    color: #000;
+    padding: 0 10px;
+}
+.right {
+    float: right;
+}
+
+//slider
+.unslider{overflow:auto;margin:0;padding:0}.unslider-wrap{position:relative}.unslider-wrap.unslider-carousel>li{float:left}.unslider-vertical>ul{height:100%}.unslider-vertical li{float:none;width:100%}.unslider-fade{position:relative}.unslider-fade .unslider-wrap li{position:absolute;left:0;top:0;right:0;z-index:8}.unslider-fade .unslider-wrap li.unslider-active{z-index:10}.unslider li,.unslider ol,.unslider ul{list-style:none;margin:0;padding:0;border:none}.unslider-arrow{position:absolute;left:20px;z-index:2;cursor:pointer}.unslider-arrow.next{left:auto;right:20px}
+.unslider-nav ol {
+  list-style: none;
+  text-align: center;
+}
+.unslider-nav ol li {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin: 0 4px;
+  background: transparent;
+  border-radius: 5px;
+  overflow: hidden;
+  text-indent: -999em;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+.unslider-nav ol li.unslider-active {
+  background: #fff;
+  cursor: default;
+}
+
+@media screen and (max-width: 800px) {
+.container {
+    padding: 0 20px 0 100px;
+    width: 100%;
+}
+.slide img {
+    height: 100%;
+    width: auto;
+}
+.contact .row:last-child {
+    margin: 0;
+}
+}
+
+
